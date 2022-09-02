@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-java -cp /Users/dhanushn/Downloads/java/ Task "$@"
+// java -cp /Users/dhanushn/Downloads/java/ Task "$@"
